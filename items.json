@@ -1,0 +1,222 @@
+[
+  {
+    "id": "35783026",
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "year": "2015",
+    "price": "38500",
+    "distance": 183,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn4.riastatic.com/photosnew/auto/photo/volkswagen_touareg__530721424bx.jpg"
+  },
+  {
+    "id": "35774568",
+    "brand": "Audi",
+    "model": "A4",
+    "year": "2010",
+    "price": "11500",
+    "distance": 241,
+    "location": "Чернівці",
+    "was_in_accident": true,
+    "img_url": "https://cdn3.riastatic.com/photosnew/auto/photo/audi_a4__529532393bx.jpg"
+  },
+  {
+    "id": "34918877",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": "2018",
+    "price": "44000",
+    "distance": 90,
+    "location": "Чернівці",
+    "was_in_accident": true,
+    "img_url": "https://cdn1.riastatic.com/photosnew/auto/photo/audi_q7__507260401bx.jpg"
+  },
+  {
+    "id": "33498022",
+    "brand": "BMW",
+    "model": "X5",
+    "year": "2019",
+    "price": "87000",
+    "distance": 69,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn4.riastatic.com/photosnew/auto/photo/bmw_x5__471227279bx.jpg"
+  },
+  {
+    "id": "35807982",
+    "brand": "Mercedes-Benz",
+    "model": "GLS-Class",
+    "year": "2017",
+    "price": "40000",
+    "distance": 89,
+    "location": "Чернівці",
+    "was_in_accident": true,
+    "img_url": "https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_gls-class__530388331bx.jpg"
+  },
+  {
+    "id": "35647838",
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "year": "2014",
+    "price": "29300",
+    "distance": 96,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_touareg__526041772bx.jpg"
+  },
+  {
+    "id": "35816027",
+    "brand": "Jeep",
+    "model": "Cherokee",
+    "year": "2015",
+    "price": "12500",
+    "distance": 202,
+    "location": "Чернівці",
+    "was_in_accident": true,
+    "img_url": "https://cdn0.riastatic.com/photosnew/auto/photo/jeep_cherokee__530649605bx.jpg"
+  },
+  {
+    "id": "35803994",
+    "brand": "Audi",
+    "model": "Q7",
+    "year": "2013",
+    "price": "24100",
+    "distance": 196,
+    "location": "Чернівці",
+    "was_in_accident": true,
+    "img_url": "https://cdn1.riastatic.com/photosnew/auto/photo/audi_q7__530277376bx.jpg"
+  },
+  {
+    "id": "35741442",
+    "brand": "Audi",
+    "model": "e-tron",
+    "year": "2020",
+    "price": "51990",
+    "distance": 57,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn0.riastatic.com/photosnew/auto/photo/audi_e-tron__528620435bx.jpg"
+  },
+  {
+    "id": "35766553",
+    "brand": "BMW",
+    "model": "5 Series",
+    "year": "2004",
+    "price": "8649",
+    "distance": 251,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn1.riastatic.com/photosnew/auto/photo/bmw_5-series__530274976bx.jpg"
+  },
+  {
+    "id": "35778974",
+    "brand": "Jaguar",
+    "model": "I-Pace",
+    "year": "2020",
+    "price": "38400",
+    "distance": 36,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn4.riastatic.com/photosnew/auto/photo/jaguar_i-pace__529654999bx.jpg"
+  },
+  {
+    "id": "35310059",
+    "brand": "Mercedes-Benz",
+    "model": "GLE-Class",
+    "year": "2018",
+    "price": "49500",
+    "distance": 216,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn4.riastatic.com/photosnew/auto/photo/mercedes-benz_gle-class__517173409bx.jpg"
+  },
+  {
+    "id": "35425971",
+    "brand": "Volkswagen",
+    "model": "Tiguan Allspace",
+    "year": "2019",
+    "price": "31500",
+    "distance": 188,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn0.riastatic.com/photosnew/auto/photo/volkswagen_tiguan-allspace__520162100bx.jpg"
+  },
+  {
+    "id": "35686534",
+    "brand": "Land Rover",
+    "model": "Range Rover",
+    "year": "2006",
+    "price": "13800",
+    "distance": 241,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn3.riastatic.com/photosnew/auto/photo/land-rover_range-rover__527094983bx.jpg"
+  },
+  {
+    "id": "35828476",
+    "brand": "Volkswagen",
+    "model": "Caddy",
+    "year": "2008",
+    "price": "7600",
+    "distance": 105,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_caddy__530935332bx.jpg"
+  },
+  {
+    "id": "35777423",
+    "brand": "Land Rover",
+    "model": "Range Rover Sport",
+    "year": "2015",
+    "price": "38000",
+    "distance": 73,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn4.riastatic.com/photosnew/auto/photo/land-rover_range-rover-sport__529610909bx.jpg"
+  },
+  {
+    "id": "1947391",
+    "brand": "Volkswagen",
+    "model": "Touareg",
+    "year": "2023",
+    "price": "92222",
+    "distance": 0,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/volkswagen-touareg__2263860-341x224x60.jpg"
+  },
+  {
+    "id": "35826123",
+    "brand": "Audi",
+    "model": "e-tron Sportback",
+    "year": "2020",
+    "price": "52800",
+    "distance": 60,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn0.riastatic.com/photosnew/auto/photo/audi_e-tron-sportback__530873170bx.jpg"
+  },
+  {
+    "id": "35813940",
+    "brand": "Nissan",
+    "model": "Juke",
+    "year": "2017",
+    "price": "14477",
+    "distance": 39,
+    "location": "Чернівці",
+    "was_in_accident": false,
+    "img_url": "https://cdn2.riastatic.com/photosnew/auto/photo/nissan_juke__530558572bx.jpg"
+  },
+  {
+    "id": "35810493",
+    "brand": "Audi",
+    "model": "A6",
+    "year": "2019",
+    "price": "43800",
+    "distance": 121,
+    "location": "Чернівці",
+    "was_in_accident": true,
+    "img_url": "https://cdn4.riastatic.com/photosnew/auto/photo/audi_a6__530462769bx.jpg"
+  }
+]

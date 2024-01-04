@@ -1,0 +1,21 @@
+id,brand,model,year,price,distance,location,was_in_accident,img_url
+35783026,Volkswagen,Touareg,2015,38500,183,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/volkswagen_touareg__530721424bx.jpg
+35774568,Audi,A4,2010,11500,241,Чернівці,true,https://cdn3.riastatic.com/photosnew/auto/photo/audi_a4__529532393bx.jpg
+34918877,Audi,Q7,2018,44000,90,Чернівці,true,https://cdn1.riastatic.com/photosnew/auto/photo/audi_q7__507260401bx.jpg
+33498022,BMW,X5,2019,87000,69,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/bmw_x5__471227279bx.jpg
+35807982,Mercedes-Benz,GLS-Class,2017,40000,89,Чернівці,true,https://cdn1.riastatic.com/photosnew/auto/photo/mercedes-benz_gls-class__530388331bx.jpg
+35647838,Volkswagen,Touareg,2014,29300,96,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_touareg__526041772bx.jpg
+35816027,Jeep,Cherokee,2015,12500,202,Чернівці,true,https://cdn0.riastatic.com/photosnew/auto/photo/jeep_cherokee__530649605bx.jpg
+35803994,Audi,Q7,2013,24100,196,Чернівці,true,https://cdn1.riastatic.com/photosnew/auto/photo/audi_q7__530277376bx.jpg
+35741442,Audi,e-tron,2020,51990,57,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/audi_e-tron__528620435bx.jpg
+35766553,BMW,5 Series,2004,8649,251,Чернівці,false,https://cdn1.riastatic.com/photosnew/auto/photo/bmw_5-series__530274976bx.jpg
+35778974,Jaguar,I-Pace,2020,38400,36,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/jaguar_i-pace__529654999bx.jpg
+35310059,Mercedes-Benz,GLE-Class,2018,49500,216,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/mercedes-benz_gle-class__517173409bx.jpg
+35425971,Volkswagen,Tiguan Allspace,2019,31500,188,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/volkswagen_tiguan-allspace__520162100bx.jpg
+35686534,Land Rover,Range Rover,2006,13800,241,Чернівці,false,https://cdn3.riastatic.com/photosnew/auto/photo/land-rover_range-rover__527094983bx.jpg
+35828476,Volkswagen,Caddy,2008,7600,105,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/volkswagen_caddy__530935332bx.jpg
+35777423,Land Rover,Range Rover Sport,2015,38000,73,Чернівці,false,https://cdn4.riastatic.com/photosnew/auto/photo/land-rover_range-rover-sport__529610909bx.jpg
+1947391,Volkswagen,Touareg,2023,92222,0,Чернівці,false,https://cdn.riastatic.com/photosnewr/auto/new_auto_storage/volkswagen-touareg__2263860-341x224x60.jpg
+35826123,Audi,e-tron Sportback,2020,52800,60,Чернівці,false,https://cdn0.riastatic.com/photosnew/auto/photo/audi_e-tron-sportback__530873170bx.jpg
+35813940,Nissan,Juke,2017,14477,39,Чернівці,false,https://cdn2.riastatic.com/photosnew/auto/photo/nissan_juke__530558572bx.jpg
+35810493,Audi,A6,2019,43800,121,Чернівці,true,https://cdn4.riastatic.com/photosnew/auto/photo/audi_a6__530462769bx.jpg
